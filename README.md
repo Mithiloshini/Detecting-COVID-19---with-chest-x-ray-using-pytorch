@@ -36,3 +36,5 @@ Task 8: Training the Model
 Task 9: Final Results
 
 # Final result
+Finally, it detects the x-rays are Normal, Viral Pneumonia or COVID-19 . Just like the images displayed below.
+![Screenshot 2024-05-16 125032](https://github.com/Mithiloshini/Detecting-COVID-19---with-chest-x-ray-using-pytorch/assets/143377019/7d626da1-529d-462f-a9d7-78de483dec08)
