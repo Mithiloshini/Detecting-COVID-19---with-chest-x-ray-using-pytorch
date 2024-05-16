@@ -1,1 +1,2 @@
 # Detecting-COVID-19---with-chest-x-ray-using-pytorch
+In this guided project, ResNet-18 model was used and was trained on a COVID-19 Radiography dataset. This dataset has nearly 3000 Chest X-Ray scans which are categorized in three classes - Normal, Viral Pneumonia and COVID-19. The objective in this project was to create an image classification model that can predict Chest X-Ray scans that belonged to one of the three classes with a reasonably high accuracy. 
